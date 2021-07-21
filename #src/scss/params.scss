@@ -1,0 +1,41 @@
+// colors
+$dark_red: #970000;
+$light_red:#BD5555;
+$white: white;
+$black: #312C2B;
+$red:#F24538;
+$light_gray:#EDEFF1;
+$medium_gray: #B6BDC3;
+$gray_lines: #9c9c9c;
+$gray:#7E7E7E;
+$blue:#0055FF;
+// viewports
+$viewport-max-int: 1920;
+$viewport-min-int: 320;
+$viewport-max: $viewport-max-int * 1px;
+$viewport-min: $viewport-min-int * 1px;
+$size-int-mobile: 800;
+$size-int-tablete: 1024;
+$size-int-notebook: 1366;
+$size-mobile: 800px;
+$size-tablete: 1024px;
+$size-notebook: 1366px;
+// font
+$font-family: 'Formular',
+sans-serif;
+$font-h1: 'Formular',
+sans-serif;
+$font-h2: 'Formular',
+sans-serif;
+$font-h3: 'Formular',
+sans-serif;
+$font-h4: 'Formular',
+sans-serif;
+$font-h5: 'Formular',
+sans-serif;
+body {}
+
+//paddings
+$cross_size: 33;
+// animation
+$section-gap: 0;
